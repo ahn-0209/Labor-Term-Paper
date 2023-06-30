@@ -4,3 +4,4 @@ Taiwan island land grid.R helps me to get grids in Taiwan main island by QGis.
 Event code.R is a hand-made package for event study.
 死傷路人安置.R & case_grid.R and making lld by period.R help me to record information about accident to each grid.
 Pave.R help me to record sidewalk information in each grid.
+Just a notice, please do not conduct any code using Google API, since I will need to pay extra money :p.
